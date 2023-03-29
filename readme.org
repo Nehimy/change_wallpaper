@@ -1,0 +1,7 @@
+* Chamge wallpaper
+En principio solo queria encontrar la forma de cambiar el fondo de pantalla, luego quise hacer algo más, he hice un bucle para cambiar el fondo.
+
+Ahora intento hacer que funcione como un demonio o por algo parecido.
+
+** Vídeo
+[[https://youtu.be/5FV19mFfaOs]]
