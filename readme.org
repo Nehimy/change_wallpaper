@@ -4,4 +4,4 @@ En principio solo queria encontrar la forma de cambiar el fondo de pantalla, lue
 Ahora intento hacer que funcione como un demonio o por algo parecido.
 
 ** Vídeo
-[[https://youtu.be/5FV19mFfaOs][vídeo]]
+[[https://youtu.be/5FV19mFfaOs][https://imgur.com/M9NqiuI.png]]
